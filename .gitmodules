@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Crosstabs.Loglinear"]
 	path = Crosstabs.Loglinear
 	url = https://github.com/cran/Crosstabs.Loglinear
-	shallow = true
-	registered = true
 [submodule "DFA.CANCOR"]
 	path = DFA.CANCOR
 	url = https://github.com/cran/DFA.CANCOR
-	shallow = true
-	registered = true
 [submodule "EFA.dimensions"]
 	path = EFA.dimensions
 	url = https://github.com/cran/EFA.dimensions
-	shallow = true
-	registered = true
 [submodule "LagSequential"]
 	path = LagSequential
 	url = https://github.com/cran/LagSequential
-	shallow = true
-	registered = true
 [submodule "NO.PING.PONG"]
 	path = NO.PING.PONG
 	url = https://github.com/cran/NO.PING.PONG
-	shallow = true
-	registered = true
 [submodule "SIMPLE.REGRESSION"]
 	path = SIMPLE.REGRESSION
 	url = https://github.com/cran/SIMPLE.REGRESSION
-	shallow = true
-	registered = true
