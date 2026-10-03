@@ -10,7 +10,7 @@
 	url = https://github.com/cran/DFA.CANCOR
 [submodule "EFA.dimensions"]
 	path = EFA.dimensions
-	url = https://github.com/cran/EFA.dimensions
+	url = https://github.com/bpoconnor/efa.dimensions
 [submodule "LagSequential"]
 	path = LagSequential
 	url = https://github.com/cran/LagSequential
